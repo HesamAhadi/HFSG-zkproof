@@ -1,0 +1,30 @@
+# Rust
+/target
+**/*.rs.bk
+*.pdb
+
+# Circom artifacts
+*.r1cs
+*.wasm
+*.sym
+*.ptau
+*.zkey
+*.wtns
+*.json
+!paper/*.tex
+
+# LaTeX auxiliary files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.synctex.gz
+paper/*.bbl
+paper/*.blg
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.xdv
+
+# IDE
+.vscode
+.idea
