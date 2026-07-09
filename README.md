@@ -14,4 +14,3 @@ The prover convinces the verifier that:
 
 By Nielsen’s theorem, this guarantees $G$ is a spine of $N$, without revealing the graph itself.
 
-### Repository Structure
